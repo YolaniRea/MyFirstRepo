@@ -1,1 +1,4 @@
+What I have learned from this course
+
 In this course, I have learned the fundamentals of Linux, including how to navigate the file system and use the command line interface. I have also gained practical experience with Git and GitHub, specifically learning how to clone repositories to my local machine, create new branches for features, and manage version control effectively.
+
